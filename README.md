@@ -1,4 +1,4 @@
 # design-reading
-a personal jar of HCI summer reading resources 
+a personal jar of HCI and system design summer reading resources 
 
 
